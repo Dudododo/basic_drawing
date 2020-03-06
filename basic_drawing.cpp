@@ -31,6 +31,5 @@ int main()
 
 	imshow("img", img);//显示上述图像
 	waitKey(0);
-	//imshow("dispMat", dispMat);
 	return 0;
 }
